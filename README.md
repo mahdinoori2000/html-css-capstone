@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio <a name="about-project"></a>
+# 📖 Leadership Conference <a name="about-project"></a>
 
-Personal porftfolio website.
+This is a capstone project. It's about a lidership seminar. It consist of home and about pages.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,14 +57,15 @@ Personal porftfolio website.
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
-- **Great and sample design**
-- **Responsive for All screen sizes**
+- **dynamic Navbar**
+- **Home page**
+- **About page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Link](https://mahdinoori2000.github.io/portfolio/)
+- [Live Link](https://mahdinoori2000.github.io/html-css-capstone/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +91,7 @@ Your favorite text editor
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/mahdinoori2000/portfolio.git
+git clone https://github.com/mahdinoori2000/html-css-capstone.git
 ```
 
 ### Install
@@ -128,8 +129,8 @@ Open the index file in your browser or live server
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Functionality to buttons**
-- [ ] **Dynamic features**
+- [ ] **Animation to the home page**
+- [ ] **Add functionality to the project**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,6 +153,8 @@ Contributions, issues, and feature requests are welcome!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank from [Microverse Inc](https://www.github.com/microverseinc) for providing the project requirements.
+
+Thanks from [Cindy Shin in Behance.](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
