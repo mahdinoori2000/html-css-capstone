@@ -65,7 +65,7 @@ This is a capstone project. It's about a lidership seminar. It consist of home a
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Link](https://mahdinoori2000.github.io/portfolio/)
+- [Live Link](https://mahdinoori2000.github.io/html-css-capstone/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
