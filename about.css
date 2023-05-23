@@ -1,31 +1,38 @@
 /* ***************** */
+
 /* **** HEADLINE***** */
+
 /* ***************** */
 .headline-text,
 .primary-header {
   text-align: center;
 }
+
 #headline-desc {
   background-color: #fff;
   outline: 0.3rem solid #f6f6f6;
   text-align: center;
   width: auto;
 }
+
 .about-contact {
   padding: 1rem 2rem;
   text-align: center;
   font-size: 1.4rem;
 }
+
 .about-email {
   text-align: center;
   text-decoration: underline;
   font-weight: bold;
   font-size: 1.6rem;
 }
+
 #language-title {
   font-size: 2.4rem;
   font-weight: bold;
 }
+
 #primary-header {
   background: none;
   font-size: 3.2rem;
@@ -34,7 +41,9 @@
 }
 
 /* ***************** */
+
 /* **** LOGO ***** */
+
 /* ***************** */
 .logo {
   padding: 3.2rem 2.4rem;
@@ -42,19 +51,24 @@
   flex-direction: column;
   align-items: center;
 }
+
 .logo-desc {
   text-align: center;
   padding: 0 3.2rem;
   margin-bottom: 1.2rem;
   font-size: 1.6rem;
 }
+
 .logo-img {
   padding: 2.4rem 4.8rem;
   width: 26rem;
   border: 1px solid #ccc;
 }
+
 /* ***************** */
+
 /* **** PAST ***** */
+
 /* ***************** */
 .past {
   display: flex;
@@ -63,6 +77,7 @@
   justify-content: center;
   gap: 1.8rem;
 }
+
 .past-imgs {
   display: flex;
   flex-direction: column;
@@ -70,23 +85,28 @@
   gap: 1.4rem;
   margin-bottom: 4.8rem;
 }
+
 .past-img {
   width: 80%;
   cursor: pointer;
 }
+
 /* PARTNER  */
 #partner {
   display: flex;
 }
 
 /* ***************** */
+
 /* **** PARTNERS ***** */
+
 /* ***************** */
 
 .partner {
   background-color: #495057;
   padding: 3.2rem;
 }
+
 .partner-title {
   color: #fff;
   font-size: 2.4rem;
@@ -95,6 +115,7 @@
   margin-bottom: 3.2rem;
   text-align: center;
 }
+
 .partner-title::after {
   content: '';
   height: 0.1rem;
@@ -112,23 +133,29 @@
   justify-content: space-around;
   flex-wrap: wrap;
 }
+
 .partners img {
   height: 4rem;
   padding: 0.5rem;
   filter: brightness(0);
   opacity: 50%;
 }
+
 /* ******************************/
+
 /* **** BIG SCREEN SIZES ***** */
+
 /* *************************** */
 @media screen and (min-width: 768px) {
   #primary-header {
     font-size: 5.4rem;
   }
+
   .logo-img {
     width: 30rem;
     margin: auto;
   }
+
   .past-imgs {
     display: flex;
     flex-direction: row;
@@ -136,6 +163,7 @@
     margin: 0 auto;
     padding: 0 2.4rem;
   }
+
   #partner {
     display: none;
   }
