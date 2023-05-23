@@ -143,6 +143,18 @@
   opacity: 50%;
 }
 
+#footer {
+  align-items: center;
+}
+
+#footer-img1 {
+  display: none;
+}
+
+#footer-img2 {
+  height: 8.8rem;
+}
+
 /* ******************************/
 
 /* **** BIG SCREEN SIZES ***** */
@@ -171,6 +183,14 @@
 
   #footer {
     background-color: #333;
+  }
+
+  #footer-img1 {
+    display: inline-block;
+  }
+
+  #footer-img2 {
+    display: none;
   }
 
   .footer-desc {
